@@ -61,10 +61,10 @@ ul {
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin-bottom: 60px;
-    max-width: 1450px; /* Defina a largura máxima desejada */
-    width: 300%; /* Isso garante que o container se ajuste ao tamanho disponível */
+    max-width: 1450px; 
+    width: 300%; 
     height: 325px;
-    margin: 0 auto; /* Centraliza o container na página */
+    margin: 0 auto; 
     /* max-height: 500px; */
   }
 
@@ -106,8 +106,8 @@ ul {
     border: none;
     /* border-radius: 4px; */
     cursor: pointer;
-    width: 925px; /* Isso garante que o container se ajuste ao tamanho disponível */
-    margin: 0 auto; /* Centraliza o container na página */
+    width: 925px; 
+    margin: 0 auto; 
   }
  
   button[type="submit"] {
